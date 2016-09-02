@@ -4,7 +4,8 @@ public class Conversion
 {
 public static void main(String args[])
 {
-int tinc,tinf;
+int tinc;
+float tinf;
 System.out.println("enter the temperature in celcius:");
 Scanner sc=new Scanner(System.in);
 tinc=sc.nextInt();
