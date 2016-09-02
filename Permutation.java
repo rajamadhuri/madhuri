@@ -4,8 +4,7 @@ public class Permutation
 {
 public static void main(String args[])
 {
-int i,j,n,r,fact=1,d,fact1=1;
-float npr;
+int i,j,n,r,fact=1,d,fact1=1,npr;
 System.out.println("enter the values for n and r:");
 Scanner sc=new Scanner(System.in);
 n=sc.nextInt();
